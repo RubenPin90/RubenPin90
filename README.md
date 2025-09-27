@@ -1,5 +1,5 @@
 
-![Hi there, I'm Ruben! Software Engineer passionate about cyber-security, system architecture, process automation, 3D printing, DIY ...](test.png)
+![Hi there, I'm Ruben! Software Engineer passionate about cyber-security, system architecture, process automation, 3D printing, DIY ...](https://github.com/RubenPin90/RubenPin90/blob/main/welcome.png)
 
 - 🌱 I currently mastered the Full Stack Developer learning journey @ 42Vienna coding school
 - 💞️ I’m looking to collaborate on projects in the fields aforementioned
