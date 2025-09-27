@@ -17,4 +17,4 @@ These are the projects I’m currently working on, each at its own stage of prog
 
 
 
-<p align="center"><sub><em>Credits: Illutration: <a href="https://blush.design/collections/open-peeps/open-peeps">Open Peeps by Pablo Stanley</a>, blob made with <a href="https://www.blobmaker.app/">blobmaker</a></em></sub></p>
+<p align="center"><sub><em>Credits: Illutration: Created with OpenAI, blob made with <a href="https://www.blobmaker.app/">blobmaker</a></em></sub></p>
