@@ -1,26 +1,21 @@
-<!--
-- 👋 Hi, there, 
-- 🌱 I'm currently learning C/C++ at 42Vienna! 
-- 💞️ Let's GO!
--->
 
-## Hi there! 👋 I am Ruben
+![Hi there, I'm Ruben! Software Engineer passionate about cyber-security, system architecture, process automation, 3D printing, DIY ...](test.png)
 
-Welcome to my GitHub profile!
+- 🌱 I currently mastered the Full Stack Developer learning journey @ 42Vienna coding school
+- 💞️ I’m looking to collaborate on projects in the fields aforementioned
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenPin90&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubenpin90&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubenpin90&theme=nord_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RubenPin90&theme=algolia)
+## 🌱 Personal Projects
 
+These are the projects I’m currently working on, each at its own stage of progress.
 
-## 🌱 What I'm Learning
-
-I'm currently sharpening my skills in: ![C Logo](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C&logoColor=white) ![C++ Logo](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white) ![Python Logo](https://img.shields.io/badge/-Python-008000?style=flat-square&logo=Python&logoColor=white) 
-
+| Link | Learning objective                                                                                        | Description | Duration | Year |
+|------|-----------------------------------------------------------------------------------------------------------|-------------|----------|------|
+|      | ![Python Logo](https://img.shields.io/badge/-Python-008000?style=flat-square&logo=Python&logoColor=white) |             |          |      |
+|      |                                                                                                           |             |          |      |
+|      |                                                                                                           |             |          |      |
 
 
 
-<!---
-RubenPin90/RubenPin90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><sub><em>Credits: Illutration: <a href="https://blush.design/collections/open-peeps/open-peeps">Open Peeps by Pablo Stanley</a>, blob made with <a href="https://www.blobmaker.app/">blobmaker</a></em></sub></p>
